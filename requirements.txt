@@ -12,7 +12,7 @@ botocore==1.15.33
 cachetools==4.1.1
 cassandra-driver==3.22.0
 certifi==2019.11.28
-cffi==1.14.0
+cffi==1.15.1
 chardet==3.0.4
 click==7.1.1
 colorclass==2.2.0
@@ -44,7 +44,7 @@ jmespath==0.9.5
 kafka-python==1.4.7
 kiwisolver==1.2.0
 koalas==0.32.0
-matplotlib==3.2.1
+matplotlib==3.5.1
 mode==4.3.2
 msrest==0.6.19
 multidict==4.7.5
